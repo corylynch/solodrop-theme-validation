@@ -1,0 +1,1 @@
+# solodrop-theme-validation
